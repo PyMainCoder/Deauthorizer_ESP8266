@@ -10,7 +10,7 @@ Hi 👋
 Please visit [Deauther.com](https://deauther.com) for information about this project.  
 Here are some quick links:
 
-* [Buy](https://deauther.com/docs/buy)
+
 * [Download](https://deauther.com/docs/download)
 * [DIY Tutorial](https://deauther.com/docs/category/diy-tutorial)
 * [Usage](https://deauther.com/docs/category/usage)
